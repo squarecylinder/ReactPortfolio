@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name":"Jalen Straka",
+    "description":"I am a highly motivated Full-Stack developer with the desire to solve complicated problems and create exciting applications!",
+    "image":"profilepic.jpg",
+    "bio":"I have a passion for learning new skills and tackling complex problems. I am new to programming however I strive to be the best that I can. I enjoy the full-stack spectrum and can comfortably work on all ends of a project. I'm a father of two beautiful children, Hailey and Malachi. I have been with my fiancee Amber for almost a decade and we have a Siberian Husky named Etho and a HuskyPoo named Miska.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jalenastraka@gmail.com",
+    "phone": "216-952-2444",
+    "github":"https://github.com/squarecylinder",
+    "project":"",
+    "address":{
+      "street":"",
+      "city":"Cleveland",
+      "state":"Ohio",
+      "zip": ""
+    },
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jalenstraka",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/squarecylinder",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"This is some, not all, of my competencies.",
+    "education":[
+      {
+        "school":"Case Western Reserve University",
+        "degree":"Full-Stack Web Development",
+        "graduated":"August 2020",
+        "description":"A 24 week intensive boot-camp from Trilogy at CWRU, taught by an extremely talented staff of senior developers"
+      }
+    ],
+    "work":[
+      {
+        "company":"Remote Work Experience",
+        "title":"",
+        "years":"Feburary 2020 - August 2020",
+        "description":"Because of the COVID-19 pandemic, I spent almost the entirety of my bootcamp working remote. We've completed three full scale projects in which I was lead developer and project manager on each of them."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"100%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"100%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"57%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"75%"
+      },
+      {
+        "name":"MySQL",
+        "level":"78%"
+      },
+      {
+        "name":"Axios",
+        "level":"83%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"87%"
+      },
+      {
+        "name":"Express",
+        "level":"90%"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Stress of the Kingdom",
+        "category":"My first taste at programming. Super short RPG",
+        "image":"stressofthekingdom.jpg",
+        "url":"https://squarecylinder.github.io/Stress-of-The-Kingdom/"
+      },
+      {
+        "title":"[Event5 Now]",
+        "category":"Allowing users to check their local weather and if an event is playing that week.",
+        "image":"event5now.PNG",
+        "url":"https://squarecylinder.github.io/projectOne/"
+      },
+      {
+        "title":"MovieClubs",
+        "category":"Website that allows users to set up and RSVP to movie clubs",
+        "image":"movieclubs.png",
+        "url":"https://movieclubs.herokuapp.com/"
+      }
+    ]
+  }
+}
