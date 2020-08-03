@@ -90,10 +90,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Stress of the Kingdom",
-        "category":"My first taste at programming. Super short RPG",
-        "image":"stressofthekingdom.jpg",
-        "url":"https://squarecylinder.github.io/Stress-of-The-Kingdom/"
+        "title":"Corona No Lines",
+        "category":"Allows business to real-time update their COVID-19 procedures for consumers to check without having to call-in to find this information.",
+        "image":"coronanolines.PNG",
+        "url":"https://coronanolines.herokuapp.com/"
       },
       {
         "title":"[Event5 Now]",
