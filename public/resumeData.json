@@ -4,7 +4,7 @@
     "description":"I am a highly motivated Full-Stack developer with the desire to solve complicated problems and create exciting applications!",
     "image":"profilepic.jpg",
     "bio":"I have a passion for learning new skills and tackling complex problems. I enjoy the full-stack spectrum and can comfortably work on all ends of a project. If you need your front-end to dazzle or your back-end to be stable and secure, I'm your person! I have been with my fiancee Amber for almost a decade, we have two beautiful children, Hailey and Malachi. We also have a Siberian Husky named Etho and a HuskyPoo named Miska. My project page isn't updated yet, so please check back again to see everything that I have worked on!",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"",
     "email": "jalenastraka@gmail.com",
     "phone": "216-952-2444",
     "github":"https://github.com/squarecylinder",
@@ -15,7 +15,7 @@
       "state":"Ohio",
       "zip": ""
     },
-    "resumedownload": "https://drive.google.com/file/d/10EIM2tFSeIvisGcKIlNdJB71MHeXFPs_/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/14Vy4ThQQX0tMajESUDJxWaGUaNsdXll1/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -99,7 +99,7 @@
         "title":"[Event5 Now]",
         "category":"Allowing users to check their local weather and if an event is playing that week.",
         "image":"event5now.PNG",
-        "url":"https://squarecylinder.github.io/projectOne/"
+        "url":"https://squarecylinder.github.io/Event5Now/"
       },
       {
         "title":"MovieClubs",
